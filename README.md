@@ -6,3 +6,5 @@ This is a Movie Recommendation Web App Based on "Content Based " recommendation 
 - NLTK Library was used to create a recommendation engine 
 - Streamlit library was used to build a Front End for this app
 - User needs to search for a movie in the box specified in the app and then needs to click on recommend to view top 5 recommendations similary to the movie selected
+![](Picture2.png)
+![](Picture1.png)
